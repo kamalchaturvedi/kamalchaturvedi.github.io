@@ -1,6 +1,6 @@
 
 
-![alt text](IMG_0184.JPG)
+<img style="float: right;" src="IMG_0184.JPG"/>
 <br/>
 <br/>
 Hello folks,
