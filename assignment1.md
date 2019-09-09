@@ -1,4 +1,4 @@
-This section is a discussion around a case study of [IDEO](https://www.youtube.com/watch?v=2Dtrkrz0yoU)
+This section is a discussion around a [case study of IDEO](https://www.youtube.com/watch?v=2Dtrkrz0yoU)
 
 Q. This video is about 20 years old! Which ideas from this work show up in today's shopping carts? Which ideas did not make it,
 and why didn't they?
