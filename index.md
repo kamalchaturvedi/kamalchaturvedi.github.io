@@ -9,7 +9,8 @@ I will be demonstrating the learnings from CSCI 5839, in a series of blog posts 
 
 1. [Reading Assignment 1](assignment1.md)
 
-2. [Reading Assignment 2](readingAssignment2.md)
+2. [Reading Assignment 2: Personas](assignment2Personas.md)
 
+3. [Reading Assignment 2: Task Analysis](assignment2taskAnalysis.md)
 
 Kamal
