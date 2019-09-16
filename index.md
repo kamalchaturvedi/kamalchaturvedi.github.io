@@ -13,4 +13,6 @@ I will be demonstrating the learnings from CSCI 5839, in a series of blog posts 
 
 3. [Reading Assignment 2: Task Analysis](assignment2taskAnalysis.md)
 
+4. [Reading Assignment 3: Formative Research](assignment3FormativeResearch.md)
+
 Kamal
