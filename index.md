@@ -16,4 +16,7 @@ I will be demonstrating the learnings from CSCI 5839, in a series of blog posts 
 4. [Reading Assignment 3: Formative Research](assignment3FormativeResearch.md)
 
 4. [Assignment 5: Sketches](assignment5Sketching.md)
+
+
+
 Kamal
