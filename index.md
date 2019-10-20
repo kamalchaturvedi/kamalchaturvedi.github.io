@@ -19,4 +19,6 @@ I will be demonstrating the learnings from CSCI 5839, in a series of blog posts 
 
 6. [Assignment 6: Prototyping](assignment6Prototyping.md)
 
+7. [Assignment 7: Usability](assignment7.md)
+
 Kamal
