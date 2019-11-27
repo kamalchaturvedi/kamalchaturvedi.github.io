@@ -21,4 +21,6 @@ I will be demonstrating the learnings from CSCI 5839, in a series of blog posts 
 
 7. [Assignment 7: Usability](assignment7.md)
 
+8. [Assignment 9: Audio and Dark Patterns](assignment9AudioDarkPatterns.md)
+
 Kamal
