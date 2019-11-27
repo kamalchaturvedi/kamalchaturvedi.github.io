@@ -43,11 +43,11 @@ creating intentional changes in the world that either directly/indirectly induce
 
 Upon analyzing different sets of exemplars, 5 primary categories of designer strategies can be referred to as dark patterns.
 
-> Nagging : Redirection of expected functionality that persists beyond one or more interactions.
-> Obstruction : Making a process more difficult than it needs to be, with the intent of dissuading certain action(s).
-> Sneaking : Attempting to hide, disguise, or delay the divulging of information that is relevant to the user.
-> Interface Interference : Manipulation of the user interface that privileges certain actions over others.
-> Forced Action : Requiring the user to perform a certain action to access (or continue to access) certain functionality.
+* Nagging : Redirection of expected functionality that persists beyond one or more interactions.
+* Obstruction : Making a process more difficult than it needs to be, with the intent of dissuading certain action(s).
+* Sneaking : Attempting to hide, disguise, or delay the divulging of information that is relevant to the user.
+* Interface Interference : Manipulation of the user interface that privileges certain actions over others.
+* Forced Action : Requiring the user to perform a certain action to access (or continue to access) certain functionality.
 
 This categorization seeks to articulate strategic motivators through a rigorous scholarly process of integrating, refining,
 and theorizing—consistent with the development of grounded theory.
